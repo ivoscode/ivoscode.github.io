@@ -10,7 +10,9 @@ body {
      
      
   }
-
+h1 {
+  padding-top: 20px;
+}
 
 .container {
   text-align: center;
@@ -47,7 +49,8 @@ body {
 
   .show-desktop {
     display: block;
-    margin: 0 auto 13% auto;
+    margin:0 auto;
+    
   }
 
   .hide-desktop {
@@ -58,7 +61,8 @@ body {
 
   .scroll {
     width: 30px;
-    margin-top: 15%;
+    margin-top: 30%;
+    
     animation: move 1s infinite alternate;
   }
 
