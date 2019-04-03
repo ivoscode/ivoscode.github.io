@@ -16,7 +16,7 @@ h1 {
 header {
   position: relative;
   text-align: center;
-  height: 96vh;
+  height: 97vh;
   background: black url(../images/title.jpg) no-repeat center center/cover;
   color: rgb(5, 20, 20);
 }
